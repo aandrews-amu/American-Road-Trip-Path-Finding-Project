@@ -1,0 +1,991 @@
+waypoint1	waypoint2	distance_m	duration_s
+Acadia, Maine	Arches, Utah	4158438	138985
+Badlands, South Dakota	Acadia, Maine	3361924	112228
+Big Bend, Texas	Acadia, Maine	4122919	138724
+Acadia, Maine	Biscayne, Florida	2841347	95936
+Black Canyon of the Gunnison, Colorado	Acadia, Maine	4015523	136908
+Acadia, Maine	Bryce Canyon, Utah	4466669	151151
+Canyonlands, Utah	Acadia, Maine	4177818	139808
+Acadia, Maine	Capitol Reef, Utah	4283138	143266
+Acadia, Maine	Carlsbad Caverns, New Mexico	4006239	135927
+Congaree, South Carolina	Acadia, Maine	1927625	66843
+Crater Lake, Oregon	Acadia, Maine	5368434	180181
+Cuyahoga Valley, Ohio	Acadia, Maine	1474442	50763
+Death Valley, California	Acadia, Maine	5022146	166799
+Acadia, Maine	Everglades, Florida	2857326	96558
+Great Sand Dunes, Colorado	Acadia, Maine	3825271	129874
+Great Smoky Mountains, North Carolina	Acadia, Maine	1923884	68355
+Gateway Arch, Missouri	Acadia, Maine	2326429	80109
+Acadia, Maine	Glacier, Montana	4420430	148579
+Grand Canyon, Arizona	Acadia, Maine	4656958	156164
+Great Basin, Nevada	Acadia, Maine	4833414	160909
+Acadia, Maine	Guadalupe Mountains, Texas	4062374	137879
+Hot Springs, Arkansas	Acadia, Maine	2840513	97326
+Indiana Dunes, Indiana	Acadia, Maine	1943926	66889
+Acadia, Maine	Joshua Tree, California	5085640	170303
+Kings Canyon, California	Acadia, Maine	5465737	182873
+Acadia, Maine	Lassen Volcanic, California	5298729	176006
+Acadia, Maine	Mammoth Cave, Kentucky	2136953	73672
+Mesa Verde, Colorado	Acadia, Maine	4118373	142407
+Mount Rainier, Washington	Acadia, Maine	5418159	183314
+Acadia, Maine	North Cascades, Washington	5229656	176944
+Petrified Forest, Arizona	Acadia, Maine	4354086	145819
+Pinnacles, California	Acadia, Maine	5559673	185110
+Redwood, California	Acadia, Maine	5449593	180919
+Acadia, Maine	Rocky Mountain, Colorado	3647106	123129
+Acadia, Maine	Saguaro, Arizona	4647616	156781
+Acadia, Maine	Sequoia, California	5406759	180712
+Shenandoah, Virginia	Acadia, Maine	1315972	47648
+Acadia, Maine	Theodore Roosevelt, North Dakota	3563624	119466
+Acadia, Maine	Voyageurs, Minnesota	2415978	94883
+Acadia, Maine	White Sands, New Mexico	4180868	141557
+Wind Cave, South Dakota	Acadia, Maine	3538740	118606
+Yellowstone, Wyoming	Acadia, Maine	4166430	140652
+Yosemite, California	Acadia, Maine	5144767	172548
+Zion, Utah	Acadia, Maine	4569118	153280
+Badlands, South Dakota	Arches, Utah	1157035	39719
+Big Bend, Texas	Arches, Utah	1422964	50847
+Arches, Utah	Biscayne, Florida	3756535	125847
+Black Canyon of the Gunnison, Colorado	Arches, Utah	288098	10592
+Arches, Utah	Bryce Canyon, Utah	396884	15455
+Canyonlands, Utah	Arches, Utah	42136	1774
+Arches, Utah	Capitol Reef, Utah	213353	7571
+Arches, Utah	Carlsbad Caverns, New Mexico	1072963	38239
+Congaree, South Carolina	Arches, Utah	3161559	104449
+Crater Lake, Oregon	Arches, Utah	1489289	52387
+Cuyahoga Valley, Ohio	Arches, Utah	2707579	88939
+Death Valley, California	Arches, Utah	952361	31103
+Arches, Utah	Everglades, Florida	3772514	126469
+Great Sand Dunes, Colorado	Arches, Utah	525654	21335
+Great Smoky Mountains, North Carolina	Arches, Utah	2782120	92320
+Gateway Arch, Missouri	Arches, Utah	1928601	63011
+Arches, Utah	Glacier, Montana	1409728	46232
+Grand Canyon, Arizona	Arches, Utah	669434	24458
+Great Basin, Nevada	Arches, Utah	966003	32779
+Arches, Utah	Guadalupe Mountains, Texas	1129099	40192
+Hot Springs, Arkansas	Arches, Utah	1958256	69320
+Indiana Dunes, Indiana	Arches, Utah	2221383	72503
+Arches, Utah	Joshua Tree, California	1044793	34939
+Kings Canyon, California	Arches, Utah	1395952	47177
+Arches, Utah	Lassen Volcanic, California	1356008	47823
+Arches, Utah	Mammoth Cave, Kentucky	2390411	79577
+Mesa Verde, Colorado	Arches, Utah	207759	8252
+Mount Rainier, Washington	Arches, Utah	1720117	60894
+Arches, Utah	North Cascades, Washington	1793523	62983
+Petrified Forest, Arizona	Arches, Utah	500115	18205
+Pinnacles, California	Arches, Utah	1458382	49653
+Redwood, California	Arches, Utah	1506872	52737
+Rocky Mountain, Colorado	Arches, Utah	606794	22568
+Arches, Utah	Saguaro, Arizona	926774	32240
+Sequoia, California	Arches, Utah	1336973	45037
+Shenandoah, Virginia	Arches, Utah	3144493	103811
+Arches, Utah	Theodore Roosevelt, North Dakota	1463627	49822
+Arches, Utah	Voyageurs, Minnesota	2297603	80499
+Arches, Utah	White Sands, New Mexico	986825	34474
+Wind Cave, South Dakota	Arches, Utah	1104542	37408
+Yellowstone, Wyoming	Arches, Utah	882267	29690
+Yosemite, California	Arches, Utah	1132397	39679
+Zion, Utah	Arches, Utah	499333	17585
+Big Bend, Texas	Badlands, South Dakota	1780866	62350
+Badlands, South Dakota	Biscayne, Florida	3383179	109650
+Black Canyon of the Gunnison, Colorado	Badlands, South Dakota	1014851	37738
+Badlands, South Dakota	Bryce Canyon, Utah	1468899	50919
+Canyonlands, Utah	Badlands, South Dakota	1177145	40638
+Badlands, South Dakota	Capitol Reef, Utah	1282466	44075
+Badlands, South Dakota	Carlsbad Caverns, New Mexico	1490633	52276
+Congaree, South Carolina	Badlands, South Dakota	2650929	87345
+Crater Lake, Oregon	Badlands, South Dakota	2167256	75476
+Cuyahoga Valley, Ohio	Badlands, South Dakota	1909720	62308
+Badlands, South Dakota	Death Valley, California	1933092	65091
+Badlands, South Dakota	Everglades, Florida	3399158	110273
+Great Sand Dunes, Colorado	Badlands, South Dakota	930650	33695
+Great Smoky Mountains, North Carolina	Badlands, South Dakota	2271490	75216
+Gateway Arch, Missouri	Badlands, South Dakota	1417972	45908
+Badlands, South Dakota	Glacier, Montana	1150795	39877
+Badlands, South Dakota	Grand Canyon, Arizona	1825247	64046
+Badlands, South Dakota	Great Basin, Nevada	1666255	56563
+Badlands, South Dakota	Guadalupe Mountains, Texas	1546769	54228
+Hot Springs, Arkansas	Badlands, South Dakota	1692981	57125
+Indiana Dunes, Indiana	Badlands, South Dakota	1425502	46080
+Badlands, South Dakota	Joshua Tree, California	2025524	68927
+Kings Canyon, California	Badlands, South Dakota	2376683	81166
+Badlands, South Dakota	Lassen Volcanic, California	2131569	71658
+Badlands, South Dakota	Mammoth Cave, Kentucky	1879782	62473
+Mesa Verde, Colorado	Badlands, South Dakota	1190408	44325
+Mount Rainier, Washington	Badlands, South Dakota	2040650	70983
+Badlands, South Dakota	North Cascades, Washington	1852147	64613
+Badlands, South Dakota	Petrified Forest, Arizona	1589990	54290
+Pinnacles, California	Badlands, South Dakota	2392514	80762
+Redwood, California	Badlands, South Dakota	2282433	76571
+Badlands, South Dakota	Rocky Mountain, Colorado	585986	21953
+Badlands, South Dakota	Saguaro, Arizona	1945612	66181
+Badlands, South Dakota	Sequoia, California	2317706	79026
+Badlands, South Dakota	Shenandoah, Virginia	2492847	83293
+Badlands, South Dakota	Theodore Roosevelt, North Dakota	472730	16655
+Badlands, South Dakota	Voyageurs, Minnesota	1128126	40365
+Badlands, South Dakota	White Sands, New Mexico	1479753	52299
+Wind Cave, South Dakota	Badlands, South Dakota	87244	4436
+Yellowstone, Wyoming	Badlands, South Dakota	788921	28321
+Yosemite, California	Badlands, South Dakota	1977607	68203
+Zion, Utah	Badlands, South Dakota	1529260	52257
+Big Bend, Texas	Biscayne, Florida	2820973	93343
+Black Canyon of the Gunnison, Colorado	Big Bend, Texas	1337443	49668
+Big Bend, Texas	Bryce Canyon, Utah	1738585	59690
+Big Bend, Texas	Canyonlands, Utah	1471160	50254
+Big Bend, Texas	Capitol Reef, Utah	1622914	56424
+Big Bend, Texas	Carlsbad Caverns, New Mexico	388925	14007
+Congaree, South Carolina	Big Bend, Texas	2483071	81207
+Big Bend, Texas	Crater Lake, Oregon	2863237	99273
+Cuyahoga Valley, Ohio	Big Bend, Texas	2662257	88205
+Big Bend, Texas	Death Valley, California	1839606	62253
+Big Bend, Texas	Everglades, Florida	2836967	93974
+Big Bend, Texas	Great Sand Dunes, Colorado	1096347	39679
+Big Bend, Texas	Great Smoky Mountains, North Carolina	2287349	76072
+Big Bend, Texas	Gateway Arch, Missouri	1788799	59008
+Big Bend, Texas	Glacier, Montana	2757101	91452
+Big Bend, Texas	Grand Canyon, Arizona	1371654	48906
+Big Bend, Texas	Great Basin, Nevada	2436834	81572
+Big Bend, Texas	Guadalupe Mountains, Texas	380633	13033
+Big Bend, Texas	Hot Springs, Arkansas	1316742	43697
+Big Bend, Texas	Indiana Dunes, Indiana	2306733	75960
+Big Bend, Texas	Joshua Tree, California	1630590	53899
+Big Bend, Texas	Kings Canyon, California	2145351	72458
+Big Bend, Texas	Lassen Volcanic, California	2589286	88010
+Big Bend, Texas	Mammoth Cave, Kentucky	2071106	67663
+Big Bend, Texas	Mesa Verde, Colorado	1291182	43526
+Mount Rainier, Washington	Big Bend, Texas	3210199	111515
+Big Bend, Texas	North Cascades, Washington	3283605	113604
+Big Bend, Texas	Petrified Forest, Arizona	1057498	37868
+Big Bend, Texas	Pinnacles, California	2192774	74267
+Redwood, California	Big Bend, Texas	2342754	78175
+Big Bend, Texas	Rocky Mountain, Colorado	1426211	49503
+Big Bend, Texas	Saguaro, Arizona	967360	32056
+Big Bend, Texas	Sequoia, California	2086373	70318
+Big Bend, Texas	Shenandoah, Virginia	2806683	92400
+Big Bend, Texas	Theodore Roosevelt, North Dakota	2278766	77421
+Big Bend, Texas	Voyageurs, Minnesota	2693186	88206
+Big Bend, Texas	White Sands, New Mexico	582721	19741
+Wind Cave, South Dakota	Big Bend, Texas	1761872	61466
+Big Bend, Texas	Yellowstone, Wyoming	2194450	74385
+Big Bend, Texas	Yosemite, California	2196615	74113
+Zion, Utah	Big Bend, Texas	1660166	56317
+Black Canyon of the Gunnison, Colorado	Biscayne, Florida	3514336	119673
+Bryce Canyon, Utah	Biscayne, Florida	4036598	135258
+Canyonlands, Utah	Biscayne, Florida	3730710	125152
+Capitol Reef, Utah	Biscayne, Florida	4021601	130799
+Carlsbad Caverns, New Mexico	Biscayne, Florida	2893070	95555
+Congaree, South Carolina	Biscayne, Florida	1023383	33961
+Crater Lake, Oregon	Biscayne, Florida	5224668	172310
+Cuyahoga Valley, Ohio	Biscayne, Florida	1960968	65302
+Death Valley, California	Biscayne, Florida	4278803	141464
+Everglades, Florida	Biscayne, Florida	53738	2593
+Great Sand Dunes, Colorado	Biscayne, Florida	3256739	108204
+Great Smoky Mountains, North Carolina	Biscayne, Florida	1375506	46874
+Gateway Arch, Missouri	Biscayne, Florida	1968167	64009
+Glacier, Montana	Biscayne, Florida	4552655	149157
+Grand Canyon, Arizona	Biscayne, Florida	3818833	125727
+Great Basin, Nevada	Biscayne, Florida	4689648	153040
+Biscayne, Florida	Guadalupe Mountains, Texas	2973952	97174
+Hot Springs, Arkansas	Biscayne, Florida	2007709	65224
+Indiana Dunes, Indiana	Biscayne, Florida	2198046	71608
+Joshua Tree, California	Biscayne, Florida	4272730	137988
+Kings Canyon, California	Biscayne, Florida	4661853	154809
+Biscayne, Florida	Lassen Volcanic, California	5028484	167221
+Mammoth Cave, Kentucky	Biscayne, Florida	1624063	52737
+Mesa Verde, Colorado	Biscayne, Florida	3552257	118294
+Mount Rainier, Washington	Biscayne, Florida	5376611	178847
+Biscayne, Florida	North Cascades, Washington	5254007	173893
+Petrified Forest, Arizona	Biscayne, Florida	3515960	115382
+Pinnacles, California	Biscayne, Florida	4724282	157284
+Redwood, California	Biscayne, Florida	4874262	161192
+Rocky Mountain, Colorado	Biscayne, Florida	3432376	111515
+Biscayne, Florida	Saguaro, Arizona	3611476	116434
+Sequoia, California	Biscayne, Florida	4602875	152669
+Shenandoah, Virginia	Biscayne, Florida	1675370	55279
+Theodore Roosevelt, North Dakota	Biscayne, Florida	3790610	122560
+Voyageurs, Minnesota	Biscayne, Florida	3220188	105892
+Biscayne, Florida	White Sands, New Mexico	3219606	104177
+Wind Cave, South Dakota	Biscayne, Florida	3453266	115195
+Yellowstone, Wyoming	Biscayne, Florida	4025150	134311
+Yosemite, California	Biscayne, Florida	4635725	153649
+Zion, Utah	Biscayne, Florida	3958179	131885
+Black Canyon of the Gunnison, Colorado	Bryce Canyon, Utah	597235	22732
+Black Canyon of the Gunnison, Colorado	Canyonlands, Utah	308383	11410
+Black Canyon of the Gunnison, Colorado	Capitol Reef, Utah	413704	14847
+Black Canyon of the Gunnison, Colorado	Carlsbad Caverns, New Mexico	987793	37078
+Black Canyon of the Gunnison, Colorado	Congaree, South Carolina	2919287	100955
+Black Canyon of the Gunnison, Colorado	Crater Lake, Oregon	1689640	59664
+Black Canyon of the Gunnison, Colorado	Cuyahoga Valley, Ohio	2565857	86805
+Black Canyon of the Gunnison, Colorado	Death Valley, California	1152712	38379
+Black Canyon of the Gunnison, Colorado	Everglades, Florida	3532566	120489
+Black Canyon of the Gunnison, Colorado	Great Sand Dunes, Colorado	306255	12499
+Black Canyon of the Gunnison, Colorado	Great Smoky Mountains, North Carolina	2539845	88827
+Black Canyon of the Gunnison, Colorado	Gateway Arch, Missouri	1686327	59518
+Black Canyon of the Gunnison, Colorado	Glacier, Montana	1610079	53509
+Black Canyon of the Gunnison, Colorado	Grand Canyon, Arizona	803193	30724
+Black Canyon of the Gunnison, Colorado	Great Basin, Nevada	1166354	40055
+Black Canyon of the Gunnison, Colorado	Guadalupe Mountains, Texas	1043928	39030
+Black Canyon of the Gunnison, Colorado	Hot Springs, Arkansas	1676884	62403
+Black Canyon of the Gunnison, Colorado	Indiana Dunes, Indiana	2079661	70389
+Black Canyon of the Gunnison, Colorado	Joshua Tree, California	1245144	42216
+Black Canyon of the Gunnison, Colorado	Kings Canyon, California	1596303	54454
+Black Canyon of the Gunnison, Colorado	Lassen Volcanic, California	1556359	55100
+Black Canyon of the Gunnison, Colorado	Mammoth Cave, Kentucky	2148136	76083
+Black Canyon of the Gunnison, Colorado	Mesa Verde, Colorado	246188	10896
+Black Canyon of the Gunnison, Colorado	Mount Rainier, Washington	1920469	68171
+Black Canyon of the Gunnison, Colorado	North Cascades, Washington	1993874	70260
+Black Canyon of the Gunnison, Colorado	Petrified Forest, Arizona	584128	22820
+Black Canyon of the Gunnison, Colorado	Pinnacles, California	1658733	56929
+Black Canyon of the Gunnison, Colorado	Redwood, California	1707223	60013
+Black Canyon of the Gunnison, Colorado	Rocky Mountain, Colorado	447442	20553
+Black Canyon of the Gunnison, Colorado	Saguaro, Arizona	906902	33630
+Black Canyon of the Gunnison, Colorado	Sequoia, California	1537324	52314
+Black Canyon of the Gunnison, Colorado	Shenandoah, Virginia	2902218	100318
+Black Canyon of the Gunnison, Colorado	Theodore Roosevelt, North Dakota	1395683	48784
+Black Canyon of the Gunnison, Colorado	Voyageurs, Minnesota	2155881	78366
+Black Canyon of the Gunnison, Colorado	White Sands, New Mexico	925561	34976
+Black Canyon of the Gunnison, Colorado	Wind Cave, South Dakota	962820	35274
+Black Canyon of the Gunnison, Colorado	Yellowstone, Wyoming	1039055	38215
+Black Canyon of the Gunnison, Colorado	Yosemite, California	1332748	46956
+Black Canyon of the Gunnison, Colorado	Zion, Utah	699684	24861
+Canyonlands, Utah	Bryce Canyon, Utah	416132	15973
+Capitol Reef, Utah	Bryce Canyon, Utah	183661	7926
+Carlsbad Caverns, New Mexico	Bryce Canyon, Utah	1358240	47684
+Congaree, South Carolina	Bryce Canyon, Utah	3469995	116380
+Crater Lake, Oregon	Bryce Canyon, Utah	1392746	51078
+Cuyahoga Valley, Ohio	Bryce Canyon, Utah	3016016	100871
+Death Valley, California	Bryce Canyon, Utah	644533	22153
+Everglades, Florida	Bryce Canyon, Utah	4057790	135914
+Great Sand Dunes, Colorado	Bryce Canyon, Utah	888318	34140
+Great Smoky Mountains, North Carolina	Bryce Canyon, Utah	3090560	104254
+Gateway Arch, Missouri	Bryce Canyon, Utah	2237038	74943
+Glacier, Montana	Bryce Canyon, Utah	1475648	47809
+Grand Canyon, Arizona	Bryce Canyon, Utah	600416	22424
+Great Basin, Nevada	Bryce Canyon, Utah	869461	31469
+Bryce Canyon, Utah	Guadalupe Mountains, Texas	1414376	49637
+Hot Springs, Arkansas	Bryce Canyon, Utah	2243533	78765
+Indiana Dunes, Indiana	Bryce Canyon, Utah	2529819	84454
+Joshua Tree, California	Bryce Canyon, Utah	736965	25989
+Kings Canyon, California	Bryce Canyon, Utah	1088124	38227
+Bryce Canyon, Utah	Lassen Volcanic, California	1149484	42035
+Mammoth Cave, Kentucky	Bryce Canyon, Utah	2698848	91509
+Mesa Verde, Colorado	Bryce Canyon, Utah	607684	22406
+Mount Rainier, Washington	Bryce Canyon, Utah	1786038	62470
+Bryce Canyon, Utah	North Cascades, Washington	1859444	64559
+Petrified Forest, Arizona	Bryce Canyon, Utah	619785	22465
+Pinnacles, California	Bryce Canyon, Utah	1150553	40702
+Redwood, California	Bryce Canyon, Utah	1300533	44611
+Rocky Mountain, Colorado	Bryce Canyon, Utah	915231	34500
+Bryce Canyon, Utah	Saguaro, Arizona	704125	25331
+Sequoia, California	Bryce Canyon, Utah	1029146	36087
+Shenandoah, Virginia	Bryce Canyon, Utah	3452929	115743
+Theodore Roosevelt, North Dakota	Bryce Canyon, Utah	1766824	58459
+Voyageurs, Minnesota	Bryce Canyon, Utah	2609945	88846
+Bryce Canyon, Utah	White Sands, New Mexico	1233610	43182
+Wind Cave, South Dakota	Bryce Canyon, Utah	1382128	46783
+Yellowstone, Wyoming	Bryce Canyon, Utah	948188	31266
+Yosemite, California	Bryce Canyon, Utah	867976	31615
+Zion, Utah	Bryce Canyon, Utah	120220	5075
+Canyonlands, Utah	Capitol Reef, Utah	232774	8418
+Canyonlands, Utah	Carlsbad Caverns, New Mexico	1052122	37549
+Congaree, South Carolina	Canyonlands, Utah	3180983	105295
+Canyonlands, Utah	Crater Lake, Oregon	1508710	53234
+Cuyahoga Valley, Ohio	Canyonlands, Utah	2727000	89786
+Canyonlands, Utah	Death Valley, California	971782	31950
+Canyonlands, Utah	Everglades, Florida	3751672	125779
+Canyonlands, Utah	Great Sand Dunes, Colorado	504812	20644
+Canyonlands, Utah	Great Smoky Mountains, North Carolina	2801541	93167
+Canyonlands, Utah	Gateway Arch, Missouri	1948022	63858
+Canyonlands, Utah	Glacier, Montana	1429149	47079
+Canyonlands, Utah	Grand Canyon, Arizona	648592	23767
+Canyonlands, Utah	Great Basin, Nevada	985424	33626
+Canyonlands, Utah	Guadalupe Mountains, Texas	1108257	39501
+Canyonlands, Utah	Hot Springs, Arkansas	1937414	68629
+Canyonlands, Utah	Indiana Dunes, Indiana	2240804	73369
+Canyonlands, Utah	Joshua Tree, California	1064214	35786
+Canyonlands, Utah	Kings Canyon, California	1415372	48024
+Canyonlands, Utah	Lassen Volcanic, California	1375429	48670
+Canyonlands, Utah	Mammoth Cave, Kentucky	2409832	80424
+Canyonlands, Utah	Mesa Verde, Colorado	186917	7561
+Mount Rainier, Washington	Canyonlands, Utah	1739539	61741
+Canyonlands, Utah	North Cascades, Washington	1812944	63830
+Canyonlands, Utah	Petrified Forest, Arizona	479273	17514
+Canyonlands, Utah	Pinnacles, California	1477803	50500
+Redwood, California	Canyonlands, Utah	1526293	53584
+Canyonlands, Utah	Rocky Mountain, Colorado	626215	23415
+Canyonlands, Utah	Saguaro, Arizona	905932	31550
+Canyonlands, Utah	Sequoia, California	1356396	45885
+Canyonlands, Utah	Shenandoah, Virginia	3163914	104658
+Canyonlands, Utah	Theodore Roosevelt, North Dakota	1483048	50669
+Canyonlands, Utah	Voyageurs, Minnesota	2317024	81346
+Canyonlands, Utah	White Sands, New Mexico	965983	33784
+Wind Cave, South Dakota	Canyonlands, Utah	1123963	38255
+Canyonlands, Utah	Yellowstone, Wyoming	901688	30537
+Canyonlands, Utah	Yosemite, California	1151818	40526
+Zion, Utah	Canyonlands, Utah	518754	18432
+Carlsbad Caverns, New Mexico	Capitol Reef, Utah	1209741	43695
+Congaree, South Carolina	Capitol Reef, Utah	3285971	108606
+Crater Lake, Oregon	Capitol Reef, Utah	1470068	51591
+Cuyahoga Valley, Ohio	Capitol Reef, Utah	2831992	93097
+Death Valley, California	Capitol Reef, Utah	749949	25999
+Everglades, Florida	Capitol Reef, Utah	4034200	131533
+Great Sand Dunes, Colorado	Capitol Reef, Utah	704293	26366
+Great Smoky Mountains, North Carolina	Capitol Reef, Utah	2906535	96480
+Gateway Arch, Missouri	Capitol Reef, Utah	2053014	67169
+Glacier, Montana	Capitol Reef, Utah	1390508	45436
+Grand Canyon, Arizona	Capitol Reef, Utah	705346	27183
+Great Basin, Nevada	Capitol Reef, Utah	946783	31983
+Capitol Reef, Utah	Guadalupe Mountains, Texas	1265876	45647
+Hot Springs, Arkansas	Capitol Reef, Utah	2095033	74775
+Indiana Dunes, Indiana	Capitol Reef, Utah	2345795	76661
+Joshua Tree, California	Capitol Reef, Utah	842382	29835
+Kings Canyon, California	Capitol Reef, Utah	1193540	42074
+Capitol Reef, Utah	Lassen Volcanic, California	1217684	43890
+Mammoth Cave, Kentucky	Capitol Reef, Utah	2514824	83735
+Mesa Verde, Colorado	Capitol Reef, Utah	418534	15401
+Mount Rainier, Washington	Capitol Reef, Utah	1700897	60098
+Capitol Reef, Utah	North Cascades, Washington	1774303	62187
+Petrified Forest, Arizona	Capitol Reef, Utah	606226	22388
+Pinnacles, California	Capitol Reef, Utah	1255970	44549
+Redwood, California	Capitol Reef, Utah	1405950	48457
+Rocky Mountain, Colorado	Capitol Reef, Utah	731206	26726
+Capitol Reef, Utah	Saguaro, Arizona	962686	34965
+Sequoia, California	Capitol Reef, Utah	1134562	39933
+Shenandoah, Virginia	Capitol Reef, Utah	3268905	107969
+Theodore Roosevelt, North Dakota	Capitol Reef, Utah	1588039	53980
+Voyageurs, Minnesota	Capitol Reef, Utah	2422015	84657
+Capitol Reef, Utah	White Sands, New Mexico	1117731	39882
+Wind Cave, South Dakota	Capitol Reef, Utah	1228954	41566
+Yellowstone, Wyoming	Capitol Reef, Utah	863047	28894
+Yosemite, California	Capitol Reef, Utah	973393	35461
+Zion, Utah	Capitol Reef, Utah	280179	11138
+Congaree, South Carolina	Carlsbad Caverns, New Mexico	2393537	79366
+Crater Lake, Oregon	Carlsbad Caverns, New Mexico	2560269	90675
+Cuyahoga Valley, Ohio	Carlsbad Caverns, New Mexico	2552993	85355
+Death Valley, California	Carlsbad Caverns, New Mexico	1600152	54233
+Everglades, Florida	Carlsbad Caverns, New Mexico	2908736	96542
+Great Sand Dunes, Colorado	Carlsbad Caverns, New Mexico	746294	27208
+Great Smoky Mountains, North Carolina	Carlsbad Caverns, New Mexico	2197815	74231
+Gateway Arch, Missouri	Carlsbad Caverns, New Mexico	1679537	56183
+Glacier, Montana	Carlsbad Caverns, New Mexico	2407047	78972
+Grand Canyon, Arizona	Carlsbad Caverns, New Mexico	1140181	38496
+Great Basin, Nevada	Carlsbad Caverns, New Mexico	2036983	71067
+Carlsbad Caverns, New Mexico	Guadalupe Mountains, Texas	57584	2106
+Hot Springs, Arkansas	Carlsbad Caverns, New Mexico	1227209	41856
+Indiana Dunes, Indiana	Carlsbad Caverns, New Mexico	2197470	73135
+Joshua Tree, California	Carlsbad Caverns, New Mexico	1388558	46124
+Kings Canyon, California	Carlsbad Caverns, New Mexico	1905295	64967
+Carlsbad Caverns, New Mexico	Lassen Volcanic, California	2349832	79990
+Mammoth Cave, Kentucky	Carlsbad Caverns, New Mexico	1981575	65843
+Mesa Verde, Colorado	Carlsbad Caverns, New Mexico	873605	31067
+Mount Rainier, Washington	Carlsbad Caverns, New Mexico	2791097	99182
+Carlsbad Caverns, New Mexico	North Cascades, Washington	2864503	101266
+Petrified Forest, Arizona	Carlsbad Caverns, New Mexico	837309	28151
+Pinnacles, California	Carlsbad Caverns, New Mexico	1948767	66199
+Redwood, California	Carlsbad Caverns, New Mexico	2098747	70107
+Rocky Mountain, Colorado	Carlsbad Caverns, New Mexico	1076159	37032
+Carlsbad Caverns, New Mexico	Saguaro, Arizona	725328	24281
+Sequoia, California	Carlsbad Caverns, New Mexico	1844341	62534
+Shenandoah, Virginia	Carlsbad Caverns, New Mexico	2717149	90559
+Theodore Roosevelt, North Dakota	Carlsbad Caverns, New Mexico	1928714	64950
+Voyageurs, Minnesota	Carlsbad Caverns, New Mexico	2583923	85384
+Carlsbad Caverns, New Mexico	White Sands, New Mexico	326831	11697
+Wind Cave, South Dakota	Carlsbad Caverns, New Mexico	1519120	50718
+Yellowstone, Wyoming	Carlsbad Caverns, New Mexico	1844397	61914
+Yosemite, California	Carlsbad Caverns, New Mexico	1954583	66338
+Zion, Utah	Carlsbad Caverns, New Mexico	1279527	44649
+Congaree, South Carolina	Crater Lake, Oregon	4490981	150371
+Congaree, South Carolina	Cuyahoga Valley, Ohio	952670	33495
+Congaree, South Carolina	Death Valley, California	3735783	123575
+Congaree, South Carolina	Everglades, Florida	1041777	34935
+Congaree, South Carolina	Great Sand Dunes, Colorado	2669696	89491
+Congaree, South Carolina	Great Smoky Mountains, North Carolina	398882	16162
+Congaree, South Carolina	Gateway Arch, Missouri	1234480	42071
+Congaree, South Carolina	Glacier, Montana	3738359	124738
+Congaree, South Carolina	Grand Canyon, Arizona	3275812	107833
+Congaree, South Carolina	Great Basin, Nevada	3955962	131102
+Congaree, South Carolina	Guadalupe Mountains, Texas	2451494	81418
+Congaree, South Carolina	Hot Springs, Arkansas	1301523	43742
+Congaree, South Carolina	Indiana Dunes, Indiana	1289475	44167
+Congaree, South Carolina	Joshua Tree, California	3704494	121972
+Congaree, South Carolina	Kings Canyon, California	4118832	136919
+Congaree, South Carolina	Lassen Volcanic, California	4421276	146196
+Congaree, South Carolina	Mammoth Cave, Kentucky	767906	28737
+Congaree, South Carolina	Mesa Verde, Colorado	3009236	100409
+Congaree, South Carolina	Mount Rainier, Washington	4642925	156908
+Congaree, South Carolina	North Cascades, Washington	4520321	151955
+Congaree, South Carolina	Petrified Forest, Arizona	2972940	97493
+Congaree, South Carolina	Pinnacles, California	4181262	139395
+Congaree, South Carolina	Redwood, California	4331242	143303
+Congaree, South Carolina	Rocky Mountain, Colorado	2698689	89572
+Congaree, South Carolina	Saguaro, Arizona	3145721	102474
+Congaree, South Carolina	Sequoia, California	4059853	134775
+Congaree, South Carolina	Shenandoah, Virginia	667072	23472
+Congaree, South Carolina	Theodore Roosevelt, North Dakota	2881553	95626
+Congaree, South Carolina	Voyageurs, Minnesota	2311131	78958
+Congaree, South Carolina	White Sands, New Mexico	2645611	89670
+Congaree, South Carolina	Wind Cave, South Dakota	2719579	93256
+Congaree, South Carolina	Yellowstone, Wyoming	3291463	112373
+Congaree, South Carolina	Yosemite, California	4092705	135760
+Congaree, South Carolina	Zion, Utah	3415158	113995
+Cuyahoga Valley, Ohio	Crater Lake, Oregon	3918131	129871
+Crater Lake, Oregon	Death Valley, California	1080908	40799
+Crater Lake, Oregon	Everglades, Florida	5238503	172788
+Great Sand Dunes, Colorado	Crater Lake, Oregon	1981679	71331
+Great Smoky Mountains, North Carolina	Crater Lake, Oregon	4110835	137731
+Crater Lake, Oregon	Gateway Arch, Missouri	3257317	108423
+Crater Lake, Oregon	Glacier, Montana	1327582	48904
+Crater Lake, Oregon	Grand Canyon, Arizona	1666641	60073
+Crater Lake, Oregon	Great Basin, Nevada	600321	23742
+Crater Lake, Oregon	Guadalupe Mountains, Texas	2565485	89354
+Hot Springs, Arkansas	Crater Lake, Oregon	3456932	117291
+Crater Lake, Oregon	Indiana Dunes, Indiana	3431934	113454
+Crater Lake, Oregon	Joshua Tree, California	1379563	49711
+Kings Canyon, California	Crater Lake, Oregon	948483	35322
+Crater Lake, Oregon	Lassen Volcanic, California	374340	15346
+Crater Lake, Oregon	Mammoth Cave, Kentucky	3719127	124988
+Crater Lake, Oregon	Mesa Verde, Colorado	1695920	60366
+Mount Rainier, Washington	Crater Lake, Oregon	641884	25101
+Crater Lake, Oregon	North Cascades, Washington	842282	31453
+Crater Lake, Oregon	Petrified Forest, Arizona	1805967	63801
+Pinnacles, California	Crater Lake, Oregon	845337	31197
+Redwood, California	Crater Lake, Oregon	719061	26596
+Crater Lake, Oregon	Rocky Mountain, Colorado	1931791	66921
+Crater Lake, Oregon	Saguaro, Arizona	1868955	66546
+Crater Lake, Oregon	Sequoia, California	986821	36333
+Crater Lake, Oregon	Shenandoah, Virginia	4473208	149222
+Crater Lake, Oregon	Theodore Roosevelt, North Dakota	2093505	70835
+Crater Lake, Oregon	Voyageurs, Minnesota	3037130	102979
+Crater Lake, Oregon	White Sands, New Mexico	2377230	82988
+Wind Cave, South Dakota	Crater Lake, Oregon	2087071	71392
+Crater Lake, Oregon	Yellowstone, Wyoming	1279724	44397
+Crater Lake, Oregon	Yosemite, California	757735	30103
+Zion, Utah	Crater Lake, Oregon	1400028	50669
+Cuyahoga Valley, Ohio	Death Valley, California	3571583	116942
+Cuyahoga Valley, Ohio	Everglades, Florida	1980748	66063
+Cuyahoga Valley, Ohio	Great Sand Dunes, Colorado	2373364	79546
+Cuyahoga Valley, Ohio	Great Smoky Mountains, North Carolina	855363	30007
+Cuyahoga Valley, Ohio	Gateway Arch, Missouri	874523	29781
+Cuyahoga Valley, Ohio	Glacier, Montana	2969867	98723
+Cuyahoga Valley, Ohio	Grand Canyon, Arizona	3205052	105836
+Cuyahoga Valley, Ohio	Great Basin, Nevada	3382851	111055
+Cuyahoga Valley, Ohio	Guadalupe Mountains, Texas	2610469	87514
+Cuyahoga Valley, Ohio	Hot Springs, Arkansas	1455398	48404
+Cuyahoga Valley, Ohio	Indiana Dunes, Indiana	493363	17032
+Cuyahoga Valley, Ohio	Joshua Tree, California	3633734	119975
+Cuyahoga Valley, Ohio	Kings Canyon, California	4015174	133017
+Cuyahoga Valley, Ohio	Lassen Volcanic, California	3848166	126149
+Cuyahoga Valley, Ohio	Mammoth Cave, Kentucky	685047	23344
+Cuyahoga Valley, Ohio	Mesa Verde, Colorado	2666466	92079
+Cuyahoga Valley, Ohio	Mount Rainier, Washington	3967596	133458
+Cuyahoga Valley, Ohio	North Cascades, Washington	3779093	127088
+Cuyahoga Valley, Ohio	Petrified Forest, Arizona	2902179	95491
+Cuyahoga Valley, Ohio	Pinnacles, California	4109110	135254
+Cuyahoga Valley, Ohio	Redwood, California	3999030	131063
+Cuyahoga Valley, Ohio	Rocky Mountain, Colorado	2196543	73275
+Cuyahoga Valley, Ohio	Saguaro, Arizona	3195710	106416
+Cuyahoga Valley, Ohio	Sequoia, California	3956197	130877
+Cuyahoga Valley, Ohio	Shenandoah, Virginia	581268	21305
+Cuyahoga Valley, Ohio	Theodore Roosevelt, North Dakota	2113061	69610
+Cuyahoga Valley, Ohio	Voyageurs, Minnesota	1542639	52942
+Cuyahoga Valley, Ohio	White Sands, New Mexico	2728962	91229
+Cuyahoga Valley, Ohio	Wind Cave, South Dakota	2088177	68750
+Cuyahoga Valley, Ohio	Yellowstone, Wyoming	2715867	90795
+Cuyahoga Valley, Ohio	Yosemite, California	3694204	122695
+Cuyahoga Valley, Ohio	Zion, Utah	3118555	103424
+Death Valley, California	Everglades, Florida	4301042	142305
+Great Sand Dunes, Colorado	Death Valley, California	1343812	49369
+Great Smoky Mountains, North Carolina	Death Valley, California	3441906	114753
+Gateway Arch, Missouri	Death Valley, California	2793820	91026
+Death Valley, California	Glacier, Montana	1834056	61030
+Death Valley, California	Grand Canyon, Arizona	643678	23131
+Death Valley, California	Great Basin, Nevada	655417	23452
+Death Valley, California	Guadalupe Mountains, Texas	1542521	52412
+Hot Springs, Arkansas	Death Valley, California	2486784	85155
+Indiana Dunes, Indiana	Death Valley, California	3086602	100517
+Death Valley, California	Joshua Tree, California	417712	15602
+Kings Canyon, California	Death Valley, California	561440	21640
+Death Valley, California	Lassen Volcanic, California	805893	29606
+Death Valley, California	Mammoth Cave, Kentucky	3225666	106364
+Mesa Verde, Colorado	Death Valley, California	1023761	36196
+Mount Rainier, Washington	Death Valley, California	1660911	60832
+Death Valley, California	North Cascades, Washington	1828108	65956
+Death Valley, California	Petrified Forest, Arizona	783003	26860
+Pinnacles, California	Death Valley, California	623870	24115
+Redwood, California	Death Valley, California	773850	28024
+Death Valley, California	Rocky Mountain, Colorado	1472013	50583
+Death Valley, California	Saguaro, Arizona	845991	29605
+Death Valley, California	Sequoia, California	502463	19500
+Death Valley, California	Shenandoah, Virginia	3961240	131081
+Death Valley, California	Theodore Roosevelt, North Dakota	2125232	71680
+Death Valley, California	Voyageurs, Minnesota	3075745	103466
+Death Valley, California	White Sands, New Mexico	1354266	46046
+Wind Cave, South Dakota	Death Valley, California	1847928	61403
+Yellowstone, Wyoming	Death Valley, California	1306595	44487
+Yosemite, California	Death Valley, California	370969	14011
+Zion, Utah	Death Valley, California	481371	17268
+Great Sand Dunes, Colorado	Everglades, Florida	3274311	109050
+Great Smoky Mountains, North Carolina	Everglades, Florida	1393078	47721
+Gateway Arch, Missouri	Everglades, Florida	1985738	64856
+Everglades, Florida	Glacier, Montana	4570226	150003
+Grand Canyon, Arizona	Everglades, Florida	3836405	126573
+Great Basin, Nevada	Everglades, Florida	4707220	153886
+Everglades, Florida	Guadalupe Mountains, Texas	2991524	98020
+Hot Springs, Arkansas	Everglades, Florida	2025280	66070
+Indiana Dunes, Indiana	Everglades, Florida	2215618	72454
+Everglades, Florida	Joshua Tree, California	4290302	138834
+Kings Canyon, California	Everglades, Florida	4679424	155655
+Everglades, Florida	Lassen Volcanic, California	5046055	168063
+Everglades, Florida	Mammoth Cave, Kentucky	1641635	53584
+Mesa Verde, Colorado	Everglades, Florida	3569829	119141
+Mount Rainier, Washington	Everglades, Florida	5394183	179693
+Everglades, Florida	North Cascades, Washington	5271579	174740
+Petrified Forest, Arizona	Everglades, Florida	3533532	116229
+Pinnacles, California	Everglades, Florida	4741854	158130
+Redwood, California	Everglades, Florida	4891834	162039
+Rocky Mountain, Colorado	Everglades, Florida	3449947	112361
+Everglades, Florida	Saguaro, Arizona	3629048	117280
+Sequoia, California	Everglades, Florida	4620447	153515
+Shenandoah, Virginia	Everglades, Florida	1692942	56126
+Everglades, Florida	Theodore Roosevelt, North Dakota	3808182	123406
+Everglades, Florida	Voyageurs, Minnesota	3237760	106739
+Everglades, Florida	White Sands, New Mexico	3244408	104966
+Wind Cave, South Dakota	Everglades, Florida	3470838	116041
+Yellowstone, Wyoming	Everglades, Florida	4042722	135157
+Yosemite, California	Everglades, Florida	4653297	154491
+Zion, Utah	Everglades, Florida	3975751	132731
+Great Smoky Mountains, North Carolina	Great Sand Dunes, Colorado	2365573	79875
+Great Sand Dunes, Colorado	Gateway Arch, Missouri	1512052	50563
+Great Sand Dunes, Colorado	Glacier, Montana	1813668	59728
+Great Sand Dunes, Colorado	Grand Canyon, Arizona	903961	34269
+Great Sand Dunes, Colorado	Great Basin, Nevada	1458154	51667
+Great Sand Dunes, Colorado	Guadalupe Mountains, Texas	802860	29100
+Hot Springs, Arkansas	Great Sand Dunes, Colorado	1419312	51032
+Great Sand Dunes, Colorado	Indiana Dunes, Indiana	1919462	65087
+Great Sand Dunes, Colorado	Joshua Tree, California	1332643	48409
+Kings Canyon, California	Great Sand Dunes, Colorado	1746980	63351
+Great Sand Dunes, Colorado	Lassen Volcanic, California	1848159	66711
+Great Sand Dunes, Colorado	Mammoth Cave, Kentucky	1973861	67128
+Great Sand Dunes, Colorado	Mesa Verde, Colorado	320375	13407
+Mount Rainier, Washington	Great Sand Dunes, Colorado	2212268	79782
+Great Sand Dunes, Colorado	North Cascades, Washington	2285674	81871
+Great Sand Dunes, Colorado	Petrified Forest, Arizona	641305	25145
+Pinnacles, California	Great Sand Dunes, Colorado	1809410	65826
+Redwood, California	Great Sand Dunes, Colorado	1959390	69735
+Great Sand Dunes, Colorado	Rocky Mountain, Colorado	482779	17788
+Great Sand Dunes, Colorado	Saguaro, Arizona	1081923	37214
+Great Sand Dunes, Colorado	Sequoia, California	1688003	61211
+Great Sand Dunes, Colorado	Shenandoah, Virginia	2727943	91363
+Great Sand Dunes, Colorado	Theodore Roosevelt, North Dakota	1335334	45706
+Great Sand Dunes, Colorado	Voyageurs, Minnesota	2163475	73210
+Great Sand Dunes, Colorado	White Sands, New Mexico	705857	26073
+Wind Cave, South Dakota	Great Sand Dunes, Colorado	925740	31474
+Great Sand Dunes, Colorado	Yellowstone, Wyoming	1113909	41596
+Great Sand Dunes, Colorado	Yosemite, California	1624548	58567
+Zion, Utah	Great Sand Dunes, Colorado	849127	32440
+Great Smoky Mountains, North Carolina	Gateway Arch, Missouri	856101	29797
+Great Smoky Mountains, North Carolina	Glacier, Montana	3359980	112465
+Great Smoky Mountains, North Carolina	Grand Canyon, Arizona	2981900	98921
+Great Smoky Mountains, North Carolina	Great Basin, Nevada	3577583	118828
+Great Smoky Mountains, North Carolina	Guadalupe Mountains, Texas	2255965	76207
+Hot Springs, Arkansas	Great Smoky Mountains, North Carolina	1007611	34842
+Great Smoky Mountains, North Carolina	Indiana Dunes, Indiana	911096	31893
+Great Smoky Mountains, North Carolina	Joshua Tree, California	3410583	113077
+Kings Canyon, California	Great Smoky Mountains, North Carolina	3824920	128019
+Great Smoky Mountains, North Carolina	Lassen Volcanic, California	4042897	133923
+Great Smoky Mountains, North Carolina	Mammoth Cave, Kentucky	389527	16463
+Great Smoky Mountains, North Carolina	Mesa Verde, Colorado	2715324	91492
+Mount Rainier, Washington	Great Smoky Mountains, North Carolina	4264546	144630
+Great Smoky Mountains, North Carolina	North Cascades, Washington	4141942	139681
+Great Smoky Mountains, North Carolina	Petrified Forest, Arizona	2679028	88593
+Pinnacles, California	Great Smoky Mountains, North Carolina	3887350	130494
+Redwood, California	Great Smoky Mountains, North Carolina	4037330	134403
+Great Smoky Mountains, North Carolina	Rocky Mountain, Colorado	2320310	77298
+Great Smoky Mountains, North Carolina	Saguaro, Arizona	2950192	97263
+Great Smoky Mountains, North Carolina	Sequoia, California	3765943	125879
+Great Smoky Mountains, North Carolina	Shenandoah, Virginia	609607	22119
+Great Smoky Mountains, North Carolina	Theodore Roosevelt, North Dakota	2503174	83352
+Great Smoky Mountains, North Carolina	Voyageurs, Minnesota	1932752	66684
+Great Smoky Mountains, North Carolina	White Sands, New Mexico	2505810	84331
+Wind Cave, South Dakota	Great Smoky Mountains, North Carolina	2341200	80982
+Great Smoky Mountains, North Carolina	Yellowstone, Wyoming	2913085	100099
+Great Smoky Mountains, North Carolina	Yosemite, California	3798793	126859
+Zion, Utah	Great Smoky Mountains, North Carolina	3121247	105095
+Gateway Arch, Missouri	Glacier, Montana	2585465	85895
+Gateway Arch, Missouri	Grand Canyon, Arizona	2332073	76682
+Gateway Arch, Missouri	Great Basin, Nevada	2722459	89778
+Gateway Arch, Missouri	Guadalupe Mountains, Texas	1737489	58398
+Hot Springs, Arkansas	Gateway Arch, Missouri	641409	22543
+Gateway Arch, Missouri	Indiana Dunes, Indiana	521777	17647
+Gateway Arch, Missouri	Joshua Tree, California	2760755	90821
+Kings Canyon, California	Gateway Arch, Missouri	3175092	105722
+Gateway Arch, Missouri	Lassen Volcanic, California	3187773	104873
+Gateway Arch, Missouri	Mammoth Cave, Kentucky	465045	17270
+Gateway Arch, Missouri	Mesa Verde, Colorado	1805529	63432
+Mount Rainier, Washington	Gateway Arch, Missouri	3409422	115585
+Gateway Arch, Missouri	North Cascades, Washington	3286818	110631
+Gateway Arch, Missouri	Petrified Forest, Arizona	2029201	66295
+Pinnacles, California	Gateway Arch, Missouri	3237523	108197
+Redwood, California	Gateway Arch, Missouri	3338637	109786
+Gateway Arch, Missouri	Rocky Mountain, Colorado	1465186	48253
+Gateway Arch, Missouri	Saguaro, Arizona	2322731	77262
+Gateway Arch, Missouri	Sequoia, California	3116115	103624
+Gateway Arch, Missouri	Shenandoah, Virginia	1219127	41504
+Gateway Arch, Missouri	Theodore Roosevelt, North Dakota	1799087	59603
+Gateway Arch, Missouri	Voyageurs, Minnesota	1326063	45133
+Gateway Arch, Missouri	White Sands, New Mexico	1855984	62038
+Wind Cave, South Dakota	Gateway Arch, Missouri	1486076	51932
+Gateway Arch, Missouri	Yellowstone, Wyoming	2057960	71049
+Gateway Arch, Missouri	Yosemite, California	2973455	99646
+Zion, Utah	Gateway Arch, Missouri	2340391	77551
+Grand Canyon, Arizona	Glacier, Montana	2016173	67362
+Great Basin, Nevada	Glacier, Montana	1453617	48317
+Glacier, Montana	Guadalupe Mountains, Texas	2463732	80939
+Hot Springs, Arkansas	Glacier, Montana	2860956	97029
+Indiana Dunes, Indiana	Glacier, Montana	2486377	82162
+Joshua Tree, California	Glacier, Montana	2032248	65998
+Kings Canyon, California	Glacier, Montana	2244428	75143
+Glacier, Montana	Lassen Volcanic, California	1647511	61125
+Mammoth Cave, Kentucky	Glacier, Montana	3038249	100535
+Mesa Verde, Colorado	Glacier, Montana	1615844	54192
+Mount Rainier, Washington	Glacier, Montana	1122645	42543
+Glacier, Montana	North Cascades, Washington	934142	36173
+Petrified Forest, Arizona	Glacier, Montana	1908200	64145
+Pinnacles, California	Glacier, Montana	2179876	72516
+Redwood, California	Glacier, Montana	2069796	68325
+Rocky Mountain, Colorado	Glacier, Montana	1421700	47608
+Glacier, Montana	Saguaro, Arizona	2273514	75144
+Sequoia, California	Glacier, Montana	2324429	76097
+Shenandoah, Virginia	Glacier, Montana	3553743	119382
+Theodore Roosevelt, North Dakota	Glacier, Montana	858372	29116
+Voyageurs, Minnesota	Glacier, Montana	1669519	59750
+Glacier, Montana	White Sands, New Mexico	2396717	79010
+Wind Cave, South Dakota	Glacier, Montana	1130057	37940
+Yellowstone, Wyoming	Glacier, Montana	548812	19568
+Yosemite, California	Glacier, Montana	1831070	60701
+Zion, Utah	Glacier, Montana	1535983	49328
+Grand Canyon, Arizona	Great Basin, Nevada	1241110	42517
+Grand Canyon, Arizona	Guadalupe Mountains, Texas	1075306	39446
+Hot Springs, Arkansas	Grand Canyon, Arizona	2025349	69231
+Indiana Dunes, Indiana	Grand Canyon, Arizona	2851585	93250
+Grand Canyon, Arizona	Joshua Tree, California	610618	21315
+Kings Canyon, California	Grand Canyon, Arizona	1024956	36258
+Grand Canyon, Arizona	Lassen Volcanic, California	1391587	48670
+Grand Canyon, Arizona	Mammoth Cave, Kentucky	2764232	90440
+Mesa Verde, Colorado	Grand Canyon, Arizona	584724	20821
+Mount Rainier, Washington	Grand Canyon, Arizona	2261907	79639
+Grand Canyon, Arizona	North Cascades, Washington	2335313	81727
+Grand Canyon, Arizona	Petrified Forest, Arizona	321569	10936
+Pinnacles, California	Grand Canyon, Arizona	1087386	38733
+Redwood, California	Grand Canyon, Arizona	1237366	42641
+Grand Canyon, Arizona	Rocky Mountain, Colorado	1275109	46546
+Grand Canyon, Arizona	Saguaro, Arizona	534076	17954
+Grand Canyon, Arizona	Sequoia, California	965979	34118
+Grand Canyon, Arizona	Shenandoah, Virginia	3499805	115157
+Grand Canyon, Arizona	Theodore Roosevelt, North Dakota	2131942	73801
+Grand Canyon, Arizona	Voyageurs, Minnesota	3066247	103563
+Grand Canyon, Arizona	White Sands, New Mexico	936137	32488
+Wind Cave, South Dakota	Grand Canyon, Arizona	1772857	61386
+Yellowstone, Wyoming	Grand Canyon, Arizona	1483892	50658
+Yosemite, California	Grand Canyon, Arizona	998829	35098
+Zion, Utah	Grand Canyon, Arizona	517063	19066
+Great Basin, Nevada	Guadalupe Mountains, Texas	2139371	71973
+Hot Springs, Arkansas	Great Basin, Nevada	2922552	98181
+Indiana Dunes, Indiana	Great Basin, Nevada	2897555	94344
+Great Basin, Nevada	Joshua Tree, California	1008452	36652
+Kings Canyon, California	Great Basin, Nevada	850707	30454
+Great Basin, Nevada	Lassen Volcanic, California	525210	18722
+Great Basin, Nevada	Mammoth Cave, Kentucky	3184747	105878
+Mesa Verde, Colorado	Great Basin, Nevada	1170534	40632
+Mount Rainier, Washington	Great Basin, Nevada	1082069	41516
+Great Basin, Nevada	North Cascades, Washington	1249266	46639
+Great Basin, Nevada	Petrified Forest, Arizona	1379853	46420
+Pinnacles, California	Great Basin, Nevada	786155	27827
+Redwood, California	Great Basin, Nevada	676075	23636
+Great Basin, Nevada	Rocky Mountain, Colorado	1397412	47811
+Great Basin, Nevada	Saguaro, Arizona	1442841	49165
+Great Basin, Nevada	Sequoia, California	889046	31465
+Great Basin, Nevada	Shenandoah, Virginia	3938829	130113
+Great Basin, Nevada	Theodore Roosevelt, North Dakota	1747805	59011
+Great Basin, Nevada	Voyageurs, Minnesota	2691430	91150
+Great Basin, Nevada	White Sands, New Mexico	1951116	65607
+Wind Cave, South Dakota	Great Basin, Nevada	1587219	52546
+Yellowstone, Wyoming	Great Basin, Nevada	929168	31818
+Yosemite, California	Great Basin, Nevada	463089	17041
+Zion, Utah	Great Basin, Nevada	874642	30934
+Hot Springs, Arkansas	Guadalupe Mountains, Texas	1283193	43742
+Indiana Dunes, Indiana	Guadalupe Mountains, Texas	2253455	75021
+Joshua Tree, California	Guadalupe Mountains, Texas	1333275	44325
+Kings Canyon, California	Guadalupe Mountains, Texas	1848036	62875
+Lassen Volcanic, California	Guadalupe Mountains, Texas	2291971	78436
+Mammoth Cave, Kentucky	Guadalupe Mountains, Texas	2037560	67729
+Mesa Verde, Colorado	Guadalupe Mountains, Texas	929590	32953
+Mount Rainier, Washington	Guadalupe Mountains, Texas	2847082	101068
+North Cascades, Washington	Guadalupe Mountains, Texas	2920488	103157
+Petrified Forest, Arizona	Guadalupe Mountains, Texas	760183	28294
+Pinnacles, California	Guadalupe Mountains, Texas	1895459	64692
+Redwood, California	Guadalupe Mountains, Texas	2045439	68601
+Rocky Mountain, Colorado	Guadalupe Mountains, Texas	1132143	38918
+Saguaro, Arizona	Guadalupe Mountains, Texas	670046	22473
+Sequoia, California	Guadalupe Mountains, Texas	1791035	61028
+Shenandoah, Virginia	Guadalupe Mountains, Texas	2773134	92445
+Theodore Roosevelt, North Dakota	Guadalupe Mountains, Texas	1984698	66836
+Voyageurs, Minnesota	Guadalupe Mountains, Texas	2639908	87270
+White Sands, New Mexico	Guadalupe Mountains, Texas	271549	9898
+Wind Cave, South Dakota	Guadalupe Mountains, Texas	1575104	52604
+Yellowstone, Wyoming	Guadalupe Mountains, Texas	1900381	63800
+Yosemite, California	Guadalupe Mountains, Texas	1899301	64539
+Zion, Utah	Guadalupe Mountains, Texas	1335512	46539
+Hot Springs, Arkansas	Indiana Dunes, Indiana	1151898	38047
+Hot Springs, Arkansas	Joshua Tree, California	2454066	83640
+Hot Springs, Arkansas	Kings Canyon, California	2868403	98583
+Hot Springs, Arkansas	Lassen Volcanic, California	3235034	110995
+Hot Springs, Arkansas	Mammoth Cave, Kentucky	789341	26601
+Hot Springs, Arkansas	Mesa Verde, Colorado	1758808	62072
+Mount Rainier, Washington	Hot Springs, Arkansas	3609179	124164
+Hot Springs, Arkansas	North Cascades, Washington	3557067	121529
+Hot Springs, Arkansas	Petrified Forest, Arizona	1722511	59156
+Hot Springs, Arkansas	Pinnacles, California	2930833	101058
+Redwood, California	Hot Springs, Arkansas	3080813	104966
+Hot Springs, Arkansas	Rocky Mountain, Colorado	1604989	55545
+Hot Springs, Arkansas	Saguaro, Arizona	1977045	64773
+Hot Springs, Arkansas	Sequoia, California	2809426	96443
+Hot Springs, Arkansas	Shenandoah, Virginia	1524918	51321
+Hot Springs, Arkansas	Theodore Roosevelt, North Dakota	2111473	71161
+Hot Springs, Arkansas	Voyageurs, Minnesota	1807757	62066
+Hot Springs, Arkansas	White Sands, New Mexico	1476934	51971
+Wind Cave, South Dakota	Hot Springs, Arkansas	1740088	61841
+Hot Springs, Arkansas	Yellowstone, Wyoming	2365013	80343
+Hot Springs, Arkansas	Yosemite, California	2842276	97423
+Zion, Utah	Hot Springs, Arkansas	2164730	75658
+Indiana Dunes, Indiana	Joshua Tree, California	3177247	104376
+Kings Canyon, California	Indiana Dunes, Indiana	3528406	116635
+Indiana Dunes, Indiana	Lassen Volcanic, California	3361397	109768
+Indiana Dunes, Indiana	Mammoth Cave, Kentucky	593397	20356
+Indiana Dunes, Indiana	Mesa Verde, Colorado	2253749	77278
+Mount Rainier, Washington	Indiana Dunes, Indiana	3482297	117232
+Indiana Dunes, Indiana	North Cascades, Washington	3293794	110862
+Indiana Dunes, Indiana	Petrified Forest, Arizona	2546984	83316
+Pinnacles, California	Indiana Dunes, Indiana	3622342	118872
+Redwood, California	Indiana Dunes, Indiana	3512261	114681
+Indiana Dunes, Indiana	Rocky Mountain, Colorado	1709775	56894
+Indiana Dunes, Indiana	Saguaro, Arizona	2840514	94279
+Indiana Dunes, Indiana	Sequoia, California	3469428	114495
+Indiana Dunes, Indiana	Shenandoah, Virginia	1076332	38049
+Indiana Dunes, Indiana	Theodore Roosevelt, North Dakota	1627762	53384
+Indiana Dunes, Indiana	Voyageurs, Minnesota	1057340	36717
+Indiana Dunes, Indiana	White Sands, New Mexico	2373767	79054
+Wind Cave, South Dakota	Indiana Dunes, Indiana	1602878	52524
+Indiana Dunes, Indiana	Yellowstone, Wyoming	2230568	74569
+Indiana Dunes, Indiana	Yosemite, California	3207435	106313
+Zion, Utah	Indiana Dunes, Indiana	2631787	87042
+Kings Canyon, California	Joshua Tree, California	551697	20673
+Joshua Tree, California	Lassen Volcanic, California	1095572	38161
+Joshua Tree, California	Mammoth Cave, Kentucky	3193607	104519
+Mesa Verde, Colorado	Joshua Tree, California	1014099	34899
+Mount Rainier, Washington	Joshua Tree, California	1968331	70164
+Joshua Tree, California	North Cascades, Washington	2168729	76517
+Petrified Forest, Arizona	Joshua Tree, California	750944	25014
+Pinnacles, California	Joshua Tree, California	614126	23148
+Redwood, California	Joshua Tree, California	764106	27057
+Rocky Mountain, Colorado	Joshua Tree, California	1563810	53983
+Joshua Tree, California	Saguaro, Arizona	635245	21122
+Sequoia, California	Joshua Tree, California	492719	18533
+Shenandoah, Virginia	Joshua Tree, California	3929180	129235
+Joshua Tree, California	Theodore Roosevelt, North Dakota	2324422	76479
+Joshua Tree, California	Voyageurs, Minnesota	3167542	106867
+Joshua Tree, California	White Sands, New Mexico	1143520	37564
+Wind Cave, South Dakota	Joshua Tree, California	1939726	64804
+Yellowstone, Wyoming	Joshua Tree, California	1505785	49287
+Yosemite, California	Joshua Tree, California	595239	21475
+Zion, Utah	Joshua Tree, California	573168	20668
+Kings Canyon, California	Lassen Volcanic, California	664646	23878
+Kings Canyon, California	Mammoth Cave, Kentucky	3607891	119604
+Kings Canyon, California	Mesa Verde, Colorado	1428388	50004
+Mount Rainier, Washington	Kings Canyon, California	1537405	55880
+Kings Canyon, California	North Cascades, Washington	1737803	62233
+Kings Canyon, California	Petrified Forest, Arizona	1165232	40119
+Kings Canyon, California	Pinnacles, California	276665	12558
+Redwood, California	Kings Canyon, California	359398	13843
+Kings Canyon, California	Rocky Mountain, Colorado	1915362	66357
+Kings Canyon, California	Saguaro, Arizona	1152659	39850
+Kings Canyon, California	Sequoia, California	16636	1070
+Kings Canyon, California	Shenandoah, Virginia	4343469	144340
+Kings Canyon, California	Theodore Roosevelt, North Dakota	2538221	85700
+Kings Canyon, California	Voyageurs, Minnesota	3481846	117844
+Kings Canyon, California	White Sands, New Mexico	1660934	56291
+Wind Cave, South Dakota	Kings Canyon, California	2291277	77177
+Kings Canyon, California	Yellowstone, Wyoming	1719584	58502
+Kings Canyon, California	Yosemite, California	179294	8076
+Zion, Utah	Kings Canyon, California	924720	33042
+Mammoth Cave, Kentucky	Lassen Volcanic, California	3650853	120916
+Mesa Verde, Colorado	Lassen Volcanic, California	1563705	55693
+Mount Rainier, Washington	Lassen Volcanic, California	977232	36424
+North Cascades, Washington	Lassen Volcanic, California	1177630	42776
+Petrified Forest, Arizona	Lassen Volcanic, California	1532249	52540
+Pinnacles, California	Lassen Volcanic, California	543456	19292
+Redwood, California	Lassen Volcanic, California	417180	14692
+Rocky Mountain, Colorado	Lassen Volcanic, California	1863517	62849
+Saguaro, Arizona	Lassen Volcanic, California	1595237	55285
+Sequoia, California	Lassen Volcanic, California	684941	24428
+Shenandoah, Virginia	Lassen Volcanic, California	4404934	145150
+Theodore Roosevelt, North Dakota	Lassen Volcanic, California	2213910	74048
+Voyageurs, Minnesota	Lassen Volcanic, California	3157535	106192
+White Sands, New Mexico	Lassen Volcanic, California	2103513	71727
+Wind Cave, South Dakota	Lassen Volcanic, California	2053324	67584
+Yellowstone, Wyoming	Lassen Volcanic, California	1395274	46856
+Yosemite, California	Lassen Volcanic, California	484018	18842
+Zion, Utah	Lassen Volcanic, California	1148270	41292
+Mesa Verde, Colorado	Mammoth Cave, Kentucky	2270266	79965
+Mount Rainier, Washington	Mammoth Cave, Kentucky	3874159	132117
+Mammoth Cave, Kentucky	North Cascades, Washington	3751555	127164
+Petrified Forest, Arizona	Mammoth Cave, Kentucky	2461131	80223
+Pinnacles, California	Mammoth Cave, Kentucky	3669453	122125
+Redwood, California	Mammoth Cave, Kentucky	3819433	126033
+Rocky Mountain, Colorado	Mammoth Cave, Kentucky	1929923	64785
+Mammoth Cave, Kentucky	Saguaro, Arizona	2732295	88894
+Sequoia, California	Mammoth Cave, Kentucky	3548046	117510
+Shenandoah, Virginia	Mammoth Cave, Kentucky	899906	31370
+Theodore Roosevelt, North Dakota	Mammoth Cave, Kentucky	2185643	71784
+Voyageurs, Minnesota	Mammoth Cave, Kentucky	1615221	55116
+Mammoth Cave, Kentucky	White Sands, New Mexico	2287914	75961
+Wind Cave, South Dakota	Mammoth Cave, Kentucky	1950814	68465
+Yellowstone, Wyoming	Mammoth Cave, Kentucky	2522698	87582
+Yosemite, California	Mammoth Cave, Kentucky	3438193	116178
+Zion, Utah	Mammoth Cave, Kentucky	2805128	94084
+Mount Rainier, Washington	Mesa Verde, Colorado	1925996	68797
+Mesa Verde, Colorado	North Cascades, Washington	1999402	70886
+Mesa Verde, Colorado	Petrified Forest, Arizona	364910	13033
+Pinnacles, California	Mesa Verde, Colorado	1489424	52494
+Redwood, California	Mesa Verde, Colorado	1639404	56402
+Mesa Verde, Colorado	Rocky Mountain, Colorado	674191	27901
+Mesa Verde, Colorado	Saguaro, Arizona	841315	28719
+Mesa Verde, Colorado	Sequoia, California	1368017	47879
+Mesa Verde, Colorado	Shenandoah, Virginia	3021070	103667
+Mesa Verde, Colorado	Theodore Roosevelt, North Dakota	1547800	55923
+Mesa Verde, Colorado	Voyageurs, Minnesota	2331267	84766
+Mesa Verde, Colorado	White Sands, New Mexico	785482	26975
+Wind Cave, South Dakota	Mesa Verde, Colorado	1138206	41691
+Mesa Verde, Colorado	Yellowstone, Wyoming	1088145	37593
+Mesa Verde, Colorado	Yosemite, California	1338276	47582
+Zion, Utah	Mesa Verde, Colorado	529141	19107
+Mount Rainier, Washington	North Cascades, Washington	332945	15468
+Mount Rainier, Washington	Petrified Forest, Arizona	2219277	78690
+Mount Rainier, Washington	Pinnacles, California	1428983	51911
+Mount Rainier, Washington	Redwood, California	1302708	47311
+Mount Rainier, Washington	Rocky Mountain, Colorado	2085262	73555
+Mount Rainier, Washington	Saguaro, Arizona	2463632	86421
+Mount Rainier, Washington	Sequoia, California	1570468	57033
+Mount Rainier, Washington	Shenandoah, Virginia	4548056	154393
+Mount Rainier, Washington	Theodore Roosevelt, North Dakota	1886987	64336
+Mount Rainier, Washington	Voyageurs, Minnesota	2830611	96480
+Mount Rainier, Washington	White Sands, New Mexico	2705987	94960
+Mount Rainier, Washington	Wind Cave, South Dakota	2017291	69135
+Mount Rainier, Washington	Yellowstone, Wyoming	1333478	47717
+Mount Rainier, Washington	Yosemite, California	1338935	51766
+Mount Rainier, Washington	Zion, Utah	1847060	63873
+Petrified Forest, Arizona	North Cascades, Washington	2294155	80826
+Pinnacles, California	North Cascades, Washington	1635307	58325
+Redwood, California	North Cascades, Washington	1509032	53724
+Rocky Mountain, Colorado	North Cascades, Washington	2122207	72521
+Saguaro, Arizona	North Cascades, Washington	2538510	88556
+Sequoia, California	North Cascades, Washington	1776792	63446
+Shenandoah, Virginia	North Cascades, Washington	4361330	148110
+Theodore Roosevelt, North Dakota	North Cascades, Washington	1700261	58053
+Voyageurs, Minnesota	North Cascades, Washington	2643886	90197
+White Sands, New Mexico	North Cascades, Washington	2780865	97095
+Wind Cave, South Dakota	North Cascades, Washington	1830565	62852
+Yellowstone, Wyoming	North Cascades, Washington	1146752	41434
+Yosemite, California	North Cascades, Washington	1608900	58988
+Zion, Utah	North Cascades, Washington	1921938	66008
+Pinnacles, California	Petrified Forest, Arizona	1220091	42659
+Redwood, California	Petrified Forest, Arizona	1370071	46567
+Petrified Forest, Arizona	Rocky Mountain, Colorado	1157361	38264
+Petrified Forest, Arizona	Saguaro, Arizona	400525	16533
+Petrified Forest, Arizona	Sequoia, California	1098684	38044
+Petrified Forest, Arizona	Shenandoah, Virginia	3178237	104221
+Petrified Forest, Arizona	Theodore Roosevelt, North Dakota	2009917	66182
+Petrified Forest, Arizona	Voyageurs, Minnesota	2744679	92627
+Petrified Forest, Arizona	White Sands, New Mexico	621624	21536
+Wind Cave, South Dakota	Petrified Forest, Arizona	1600322	51950
+Yellowstone, Wyoming	Petrified Forest, Arizona	1362293	46911
+Yosemite, California	Petrified Forest, Arizona	1131534	39024
+Zion, Utah	Petrified Forest, Arizona	528987	19197
+Redwood, California	Pinnacles, California	155700	6189
+Pinnacles, California	Rocky Mountain, Colorado	1978169	68870
+Pinnacles, California	Saguaro, Arizona	1197329	41357
+Pinnacles, California	Sequoia, California	268596	11440
+Pinnacles, California	Shenandoah, Virginia	4406276	146853
+Pinnacles, California	Theodore Roosevelt, North Dakota	2480015	83248
+Pinnacles, California	Voyageurs, Minnesota	3423639	115392
+Pinnacles, California	White Sands, New Mexico	1705604	57799
+Wind Cave, South Dakota	Pinnacles, California	2319428	76783
+Pinnacles, California	Yellowstone, Wyoming	1661378	56056
+Pinnacles, California	Yosemite, California	276142	11835
+Zion, Utah	Pinnacles, California	987527	35555
+Redwood, California	Rocky Mountain, Colorado	2014198	67860
+Redwood, California	Saguaro, Arizona	1197596	40715
+Redwood, California	Sequoia, California	399665	14906
+Redwood, California	Shenandoah, Virginia	4555615	150162
+Redwood, California	Theodore Roosevelt, North Dakota	2364591	79060
+Redwood, California	Voyageurs, Minnesota	3308216	111203
+Redwood, California	White Sands, New Mexico	1857035	61745
+Redwood, California	Wind Cave, South Dakota	2204005	72595
+Redwood, California	Yellowstone, Wyoming	1545954	51867
+Redwood, California	Yosemite, California	269788	11492
+Redwood, California	Zion, Utah	1138957	39501
+Rocky Mountain, Colorado	Saguaro, Arizona	1530815	51188
+Sequoia, California	Rocky Mountain, Colorado	1855767	64272
+Shenandoah, Virginia	Rocky Mountain, Colorado	2674180	88981
+Rocky Mountain, Colorado	Theodore Roosevelt, North Dakota	943345	33908
+Rocky Mountain, Colorado	Voyageurs, Minnesota	1764743	63973
+Rocky Mountain, Colorado	White Sands, New Mexico	1064956	37306
+Wind Cave, South Dakota	Rocky Mountain, Colorado	533751	19676
+Yellowstone, Wyoming	Rocky Mountain, Colorado	859028	30871
+Yosemite, California	Rocky Mountain, Colorado	1651189	58914
+Zion, Utah	Rocky Mountain, Colorado	1018125	36819
+Sequoia, California	Saguaro, Arizona	1093021	38038
+Shenandoah, Virginia	Saguaro, Arizona	3467766	113664
+Theodore Roosevelt, North Dakota	Saguaro, Arizona	2384080	78663
+Voyageurs, Minnesota	Saguaro, Arizona	3056900	104411
+White Sands, New Mexico	Saguaro, Arizona	482374	16239
+Wind Cave, South Dakota	Saguaro, Arizona	1974485	64431
+Yellowstone, Wyoming	Saguaro, Arizona	1741677	58588
+Yosemite, California	Saguaro, Arizona	1049871	36910
+Zion, Utah	Saguaro, Arizona	774848	26997
+Shenandoah, Virginia	Sequoia, California	4284149	142244
+Sequoia, California	Theodore Roosevelt, North Dakota	2576550	86745
+Sequoia, California	Voyageurs, Minnesota	3459774	117144
+Sequoia, California	White Sands, New Mexico	1601614	54195
+Wind Cave, South Dakota	Sequoia, California	2231956	75081
+Yellowstone, Wyoming	Sequoia, California	1757913	59559
+Yosemite, California	Sequoia, California	222185	9277
+Zion, Utah	Sequoia, California	865399	30946
+Shenandoah, Virginia	Theodore Roosevelt, North Dakota	2694936	90547
+Shenandoah, Virginia	Voyageurs, Minnesota	2124514	73880
+Shenandoah, Virginia	White Sands, New Mexico	3023832	100762
+Wind Cave, South Dakota	Shenandoah, Virginia	2670052	89688
+Yellowstone, Wyoming	Shenandoah, Virginia	3297741	111733
+Yosemite, California	Shenandoah, Virginia	4189628	140478
+Zion, Utah	Shenandoah, Virginia	3556564	118384
+Voyageurs, Minnesota	Theodore Roosevelt, North Dakota	944368	32410
+Theodore Roosevelt, North Dakota	White Sands, New Mexico	1917631	65167
+Wind Cave, South Dakota	Theodore Roosevelt, North Dakota	448937	16948
+Yellowstone, Wyoming	Theodore Roosevelt, North Dakota	726264	23498
+Yosemite, California	Theodore Roosevelt, North Dakota	2123939	71634
+Zion, Utah	Theodore Roosevelt, North Dakota	1828852	60261
+Voyageurs, Minnesota	White Sands, New Mexico	2588672	89326
+Wind Cave, South Dakota	Voyageurs, Minnesota	1274581	45841
+Yellowstone, Wyoming	Voyageurs, Minnesota	1669640	55666
+Yosemite, California	Voyageurs, Minnesota	3067315	103802
+Zion, Utah	Voyageurs, Minnesota	2677830	90687
+Wind Cave, South Dakota	White Sands, New Mexico	1507732	50678
+Yellowstone, Wyoming	White Sands, New Mexico	1833009	61873
+Yosemite, California	White Sands, New Mexico	1711613	58283
+Zion, Utah	White Sands, New Mexico	1154468	39742
+Wind Cave, South Dakota	Yellowstone, Wyoming	678439	25803
+Wind Cave, South Dakota	Yosemite, California	1898451	64403
+Wind Cave, South Dakota	Zion, Utah	1450103	48457
+Yosemite, California	Yellowstone, Wyoming	1304561	44178
+Zion, Utah	Yellowstone, Wyoming	1009474	32805
+Zion, Utah	Yosemite, California	802132	28890
