@@ -19,7 +19,6 @@ all_waypoints = [
 "Grand Canyon, Arizona",
 "Great Basin, Nevada",
 "Great Sand Dunes, Colorado",
-"Great Smoky Mountains, North Carolina",
 "Guadalupe Mountains, Texas",
 "Hot Springs, Arkansas",
 "Indiana Dunes, Indiana",
