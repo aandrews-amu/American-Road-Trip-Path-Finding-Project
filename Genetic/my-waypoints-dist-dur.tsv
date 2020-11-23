@@ -1,0 +1,37 @@
+waypoint1	waypoint2	distance_m	duration_s
+Acadia, Maine	Arches, Utah	4158437	139065
+Acadia, Maine	Badlands, South Dakota	3361923	112253
+Acadia, Maine	Big Bend, Texas	4122920	138830
+Acadia, Maine	Biscayne, Florida	2841353	96026
+Acadia, Maine	Black Canyon of the Gunnison, Colorado	4015523	136952
+Bryce Canyon, Utah	Acadia, Maine	4466669	151174
+Canyonlands, Utah	Acadia, Maine	4177816	139909
+Acadia, Maine	Capitol Reef, Utah	4283137	143289
+Badlands, South Dakota	Arches, Utah	1157035	39782
+Big Bend, Texas	Arches, Utah	1422964	50847
+Biscayne, Florida	Arches, Utah	3756536	125916
+Black Canyon of the Gunnison, Colorado	Arches, Utah	288098	10594
+Bryce Canyon, Utah	Arches, Utah	396884	15512
+Canyonlands, Utah	Arches, Utah	42136	1774
+Capitol Reef, Utah	Arches, Utah	213353	7628
+Big Bend, Texas	Badlands, South Dakota	1780866	62350
+Biscayne, Florida	Badlands, South Dakota	3381334	109714
+Black Canyon of the Gunnison, Colorado	Badlands, South Dakota	1014852	37770
+Bryce Canyon, Utah	Badlands, South Dakota	1468900	50926
+Canyonlands, Utah	Badlands, South Dakota	1177146	40727
+Capitol Reef, Utah	Badlands, South Dakota	1282467	44107
+Big Bend, Texas	Biscayne, Florida	2844076	93407
+Big Bend, Texas	Black Canyon of the Gunnison, Colorado	1337443	49668
+Bryce Canyon, Utah	Big Bend, Texas	1738584	59697
+Canyonlands, Utah	Big Bend, Texas	1471158	50261
+Capitol Reef, Utah	Big Bend, Texas	1622912	56444
+Biscayne, Florida	Black Canyon of the Gunnison, Colorado	3514331	119753
+Bryce Canyon, Utah	Biscayne, Florida	4036594	135338
+Canyonlands, Utah	Biscayne, Florida	3730705	125232
+Capitol Reef, Utah	Biscayne, Florida	4021595	130873
+Bryce Canyon, Utah	Black Canyon of the Gunnison, Colorado	597235	22732
+Canyonlands, Utah	Black Canyon of the Gunnison, Colorado	308383	11467
+Capitol Reef, Utah	Black Canyon of the Gunnison, Colorado	413704	14847
+Bryce Canyon, Utah	Canyonlands, Utah	416132	15973
+Bryce Canyon, Utah	Capitol Reef, Utah	183661	7926
+Canyonlands, Utah	Capitol Reef, Utah	232774	8475
