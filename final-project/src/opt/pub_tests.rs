@@ -1,6 +1,7 @@
 // tests
 
 use super::*;
+use std::time::{Duration, Instant};
 
 #[test]
 fn test_tsp_1() {
@@ -96,6 +97,7 @@ fn test_tsp_4() {
     // 7: Indiana Dunes, Indiana,
     // 8: Mammoth Cave, Kentucky
     // 9: White Sands, New Mexico
+    let start = Instant::now();
 
     let vcount: usize = 10;
     let edges: &[(usize, usize, u32)] = &[
@@ -191,8 +193,14 @@ fn test_tsp_4() {
         (9, 8, 2287913),
     ];
 
-    assert_eq!(
-        roadtrip(vcount, edges),
-        (vec![3, 0, 4, 2, 1, 3], 46) // it doesn't actually equal this, but allows us to see given output
-    );
+    roadtrip(vcount, edges);
+    let duration = start.elapsed();
+
+    // assert_eq!(
+    //     roadtrip(vcount, edges),
+    //     (vec![3, 0, 4, 2, 1, 3], 46) // it doesn't actually equal this, but allows us to see given output
+    // );
+
+    assert_eq!(duration, Duration::new(5, 0));
+    println!("Time elapsed in expensive_function() is: {:?}", duration);
 }
