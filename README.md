@@ -2,7 +2,7 @@
 
 By Abigail Andrews, Emma Sheridan, and Wil Troxel <br />
 <br />
-We implemented a cross-country road trip planner using a constraint satisfaction problem combined with a branch and bound algorithm. We ran our code over 10 national park destinations to generate a roadtrip path plan. We also used code from Randy Olsen to run a genetic algorithm over our 10 destinations. Both algorithms successfully generated the same optimized path. We also implemented unit tests to ensure the correctness of our algorithm. We used timer functions to time the branch and bound and genetic algorithms to find that the genetic algorithm was much faster that the branch and bound algorithm, as expected given the worst case exponential run time of branch and bound (~8 seconds versus ~24 seconds). Below is a summary of our code files. <br />
+We implemented a cross-country road trip planner using a constraint satisfaction problem combined with a branch and bound algorithm. We ran our code over 10 national park destinations to generate a roadtrip path plan. We also used code from Randy Olsen to run a genetic algorithm over our 10 destinations. Both algorithms successfully generated the same optimized path. We also implemented unit tests to ensure the correctness of our algorithm. We used timer functions to time the branch and bound and genetic algorithms to find that the genetic algorithm was much faster that the branch and bound algorithm, as expected given the worst case exponential run time of branch and bound (~8 seconds versus ~24 seconds). Below is a summary of our code files.
 <br />
 
 ### Constraint Satisfaction Problem using Branch and Bound
@@ -14,21 +14,15 @@ We implemented a cross-country road trip planner using a constraint satisfaction
 - Uses the branch and bound solver to find the path with minimal distance by passing in a cost function
 - Generates an ordered list representing the order to visit each vertex in the graph as well as the total cost for the trip
 
-<br />
-
 #### src/opt/pub_tests.rs
 
 - Tests written to verify the correctness of the code
 - test_tsp_4 tests our roadtrip function on 10 national park destinations where costs were generated using the Google Maps Distance Matrix API
 - Implemented timers to time function calls to our csp using bnb
 
-<br />
-
 #### src/csp.rs, src/fd.rs, src/lib.rs
 
 - Code taken from HW5 to implement our constraint optimization problem, our branch and bound solver, our fd constraint type, and our library functions
-
-<br />
 
 ### Genetic Algorithm
 
@@ -40,8 +34,6 @@ We implemented a cross-country road trip planner using a constraint satisfaction
 - Runs genetic algorithm over the given waypoints for 5000 generations and 100 as population size
 - Outputs an ordered list of waypoints representing the best found path after all the generations
 - We added code to time the genetic function
-
-<br />
 
 #### my-waypoints-dist-dur7.numbers
 
