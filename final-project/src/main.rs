@@ -1,8 +1,19 @@
-use roadtrip;
-use std::time::{Duration, Instant};
+use final_project::opt::roadtrip;
+use std::time::Instant;
 
 fn main() {
     let start = Instant::now();
+
+    // 0: Joshua Tree, CA
+    // 1: Mount Rainier, WA
+    // 2: Big Bend, TX
+    // 3: Acadia, Maine
+    // 4: Yellowstone, WY
+    // 5: Badlands, South Dakota
+    // 6: Death Valley, CA
+    // 7: Indiana Dunes, Indiana,
+    // 8: Mammoth Cave, Kentucky
+    // 9: White Sands, New Mexico
 
     let vcount: usize = 10;
     let edges: &[(usize, usize, u32)] = &[
@@ -98,8 +109,10 @@ fn main() {
         (9, 8, 2287913),
     ];
 
-    roadtrip(vcount, edges);
+    println!("Calculating the route...");
+    let (order, total_cost) = roadtrip(vcount, edges);
+    println!("Visit the locations in this order: {:?}", order);
+    println!("Total distance is {:?} meters", total_cost);
     let duration = start.elapsed();
-
-    println!("Time elapsed in roadtrip() is: {:?}", duration);
+    println!("Time elapsed to calculate the roadtrip is: {:?}", duration);
 }
