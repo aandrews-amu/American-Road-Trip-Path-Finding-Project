@@ -45,7 +45,7 @@ We implemented a cross-country road trip planner using a constraint satisfaction
 
 ### How to run
 
-To run the branch and bound solver, you'll need the whole final-project folder. Run main.rs to see solver work for the 10 selected locations.
+To run the branch and bound solver, you'll need the whole final-project folder. Run main.rs to see solver work for the 10 selected locations. To run the genetic algorithm on the same 10 locations, run trip.py. Our Google Maps API key in there should work for now, but if run many more times we will run out of free credits.
 
 ### What we learned
 
