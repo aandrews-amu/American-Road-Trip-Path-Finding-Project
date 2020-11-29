@@ -24,6 +24,10 @@ We implemented a cross-country road trip planner using a constraint satisfaction
 
 - Code taken from HW5 to implement our constraint optimization problem, our branch and bound solver, our fd constraint type, and our library functions
 
+#### src/main.rs
+
+- Runs our branch and bound solver on 10 selected locations, prints the order to visit the locations and the total distance, also calculates the time it takes to compute the route
+
 ### Genetic Algorithm
 
 #### trip.py
