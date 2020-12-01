@@ -49,4 +49,21 @@ To run the branch and bound solver, you'll need the whole final-project folder. 
 
 ### What we learned
 
+- How to work with Google Maps API
+- Became familiar with different techniques to
+  solve the traveling salesman problem: A\*, greedy and brute force algorithms,
+  variations of genetic algorithms, branch and bound
+- Valuable experience coding in a team
+- The intricacies of genetic algorithms
+- The differences and similarities between the various ways we could have chosen to solve the traveling salesman problem
+
 ### What we wish went differently
+
+- Being more on top of starting early
+- Additional features:
+  - Add gas stations, rest stops, and places to stay at a frequency that the user decides
+  - Additional customization such as EV charging locations and wheelchair accessible rest stops,
+  - Allow user to decide what they want the algorithm to focus on: time, cost, scenery, etc.
+  - Create an interactive map as our output
+  - Run both algorithms with the entire dataset of all National Parks
+- Spent a lot of time trying to figure out how to modify the existing genetic algorithm, when instead we just ended up making our own algorithm. Without this wasted time, we likely could have implemented at least a couple of the additional features.
